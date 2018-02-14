@@ -10,4 +10,6 @@ Copies of my projects hosted elsewhere (such as Heroku). See [homepage](http://j
 
 [Vue.js To Do List](https://github.com/jspringer/vue-todo-app)
 
+[Vue.js Tic Tac Toe](https://github.com/jspringer/vue-tic-tac-toe-game)
+
 [React InstaPhoto](https://github.com/jspringer/react-instaphoto)
