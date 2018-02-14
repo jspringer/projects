@@ -1,6 +1,6 @@
 # Projects
 
-Copies of my projects hosted elsewhere (such as Heroku). See [homepage](http://jasonspringer.me/#projects) for more.
+Copies of some of my projects hosted elsewhere (such as Heroku). See [homepage](http://jasonspringer.me/#projects) for more.
 
 [Ember Library App](https://github.com/jspringer/ember-library-app)
 
