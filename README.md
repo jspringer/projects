@@ -6,6 +6,8 @@ Copies of my projects hosted elsewhere (such as Heroku). See [homepage](http://j
 
 [Ruby on Rails Cocktail Creator](https://github.com/jspringer/ror-react-cocktail-creator)
 
-[Laravel Chat](https://github.com/jspringer/laravel-chat)
+[Vue.js/Laravel Chat](https://github.com/jspringer/laravel-chat)
+
+[Vue.js To Do List](https://github.com/jspringer/vue-todo-app)
 
 [React InstaPhoto](https://github.com/jspringer/react-instaphoto)
