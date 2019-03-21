@@ -16,6 +16,6 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Cocktail Creator](https://github.com/jspringer/ror-react-cocktail-creator) (Ruby on Rails, React, Active Admin, PostgreSQL, Heroku) - [Demo](http://jsnspr-rorreact-cocktail-list.herokuapp.com/)
 
-[Chat Aoo](https://github.com/jspringer/laravel-chat) (Laravel (PHP), Vue, Node, PostgreSQL, Pusher, Heroku) - [Demo](https://jsnspr-laravel-chat.herokuapp.com/)
+[Chat App](https://github.com/jspringer/laravel-chat) (Laravel (PHP), Vue, Node, PostgreSQL, Pusher, Heroku) - [Demo](https://jsnspr-laravel-chat.herokuapp.com/)
 
 [To Do List](https://github.com/jspringer/vue-todo-app) (Vue, Node, Heroku) - [Demo](https://jsnspr-vue-todo-app.herokuapp.com/)
