@@ -6,7 +6,7 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Job Board](https://github.com/jspringer/ror-stripe-job-board) (Ruby on Rails, Stripe, Heroku) - [Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/)
 
-[Travel Blog](hhttps://github.com/jspringer/vue-prerender-seo-blog) (Vue, Prerender-SPA, Disqus, Netlify) - [Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
+[Travel Blog](https://github.com/jspringer/vue-prerender-seo-blog) (Vue, Prerender-SPA, Disqus, Netlify) - [Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
 
 [Weather App](https://github.com/jspringer/react-native-expo-weather) (React Native, Expo, Snack) - [Demo](https://snack.expo.io/@jsnspr/react-native-expo-weather)
 
