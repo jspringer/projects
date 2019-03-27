@@ -4,9 +4,9 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Web Shop](https://github.com/jspringer/vue-nuxt-sanity-snipcart-shop) (Vue, Nuxt, Sanity, Snipcart, Heroku) - [Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/)
 
-[Job Board](https://github.com/jspringer/ror-stripe-job-board) (Ruby on Rails, Stripe, Heroku) - [Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/) (l: ``jason@example.com`` / p: password)
+[Job Board](https://github.com/jspringer/ror-stripe-job-board) (Ruby on Rails, Stripe, Heroku) - [Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/) (l: ``jason@example.com`` / p: ``password``)
 
-[Food Delivery](react-next-strapi-stripe-food-delivery) (React, Next.js, Context, Apollo (GraphQL), MongoDB, Strapi, Stripe) - [Demo](https://jsnspr-react-food-delivery.herokuapp.com/), [Strapi Admin](https://jsnspr-react-fd-backend.herokuapp.com/admin/) (l: testuser / p: Qaz2Wsx#Edc)
+[Food Delivery](react-next-strapi-stripe-food-delivery) (React, Next.js, Context, Apollo (GraphQL), MongoDB, Strapi, Stripe) - [Demo](https://jsnspr-react-food-delivery.herokuapp.com/), [Strapi Admin](https://jsnspr-react-fd-backend.herokuapp.com/admin/) (l: ``testuser`` / p: ``Qaz2Wsx#Edc``)
 
 [Travel Blog](https://github.com/jspringer/vue-prerender-seo-blog) (Vue, Prerender-SPA, Disqus, Netlify) - [Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
 
@@ -16,7 +16,7 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Library App](https://github.com/jspringer/ember-library-app) (Ember, Firebase) - [Demo](https://ember-library-47486.firebaseapp.com/)
 
-[Cocktail Creator](https://github.com/jspringer/ror-react-cocktail-creator) (Ruby on Rails, React, Active Admin, PostgreSQL, Heroku) - [Demo](http://jsnspr-rorreact-cocktail-list.herokuapp.com/) (l: admin@example.com / p: password).
+[Cocktail Creator](https://github.com/jspringer/ror-react-cocktail-creator) (Ruby on Rails, React, Active Admin, PostgreSQL, Heroku) - [Demo](http://jsnspr-rorreact-cocktail-list.herokuapp.com/) (l: ``admin@example.com`` / p: ``password``).
 
 [Chat App](https://github.com/jspringer/laravel-chat) (Laravel (PHP), Vue, Node, PostgreSQL, Pusher, Heroku) - [Demo](https://jsnspr-laravel-chat.herokuapp.com/)
 
