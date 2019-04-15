@@ -8,7 +8,7 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Food Delivery](https://github.com/jspringer/react-next-strapi-stripe-food-delivery) (React, Next.js, Context, Apollo (GraphQL), MongoDB, Strapi, Stripe) - [Demo](https://jsnspr-react-food-delivery.herokuapp.com/), [Strapi Admin](https://jsnspr-react-fd-backend.herokuapp.com/admin/) (l: ``testuser`` / p: ``Qaz2Wsx#Edc``)
 
-[Library Catalong](https://github.com/jspringer/django-library-catalog) (Django, Open Library, PostgreSQL) - [Demo](http://jsnspr-django-library.herokuapp.com/), (Admin login: ``admin``, password: ``Qaz2Wsx#Edc``)
+[Library Catalog](https://github.com/jspringer/django-library-catalog) (Django, Open Library, PostgreSQL) - [Demo](http://jsnspr-django-library.herokuapp.com/), (Admin login: ``admin``, password: ``Qaz2Wsx#Edc``)
 
 [Travel Blog](https://github.com/jspringer/vue-prerender-seo-blog) (Vue, Prerender-SPA, Disqus, Netlify) - [Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
 
