@@ -6,7 +6,7 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Job Board](https://github.com/jspringer/ror-stripe-job-board) (Ruby on Rails, Stripe, Heroku) - [Demo](https://jsnspr-ror-stripe-job-board.herokuapp.com/) (l: ``jason@example.com`` / p: ``password``)
 
-[Food Delivery](https://github.com/jspringer/react-next-strapi-stripe-food-delivery) (React, Next.js, Context, Apollo (GraphQL), MongoDB, Strapi, Stripe) - [Demo](https://jsnspr-react-food-delivery.herokuapp.com/), [Strapi Admin](https://jsnspr-react-fd-backend.herokuapp.com/admin/) (l: ``testuser`` / p: ``Qaz2Wsx#Edc``)
+[Food Delivery](https://github.com/jspringer/react-next-strapi-stripe-food-delivery-frontend) (React, Next.js, Context, Apollo (GraphQL), MongoDB, Strapi, Stripe) - [Demo](https://jsnspr-react-food-delivery.herokuapp.com/), [Strapi Admin](https://jsnspr-react-fd-backend.herokuapp.com/admin/) (l: ``testuser`` / p: ``Qaz2Wsx#Edc``)
 
 [Library Catalog](https://github.com/jspringer/django-library-catalog) (Django, Open Library, PostgreSQL) - [Demo](http://jsnspr-django-library.herokuapp.com/) (l: ``admin`` (superuser, can access admin panel) or ``test`` (basic user), p: ``Qaz2Wsx#Edc``)
 
