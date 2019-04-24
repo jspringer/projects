@@ -12,6 +12,8 @@ Due to the amount of repositories on my account, I made this list as a shortcut 
 
 [Travel Blog](https://github.com/jspringer/vue-prerender-seo-blog) (Vue, Prerender-SPA, Disqus, Netlify) - [Demo](https://jsnspr-vue-prerender-blog.netlify.com/)
 
+[APIXU Weather](https://github.com/jspringer/angular7-weather) (Angular 7, APIXU, Node, Express, Heroku) - [Demo](https://jsnspr-angular7-weather.herokuapp.com/)
+
 [Weather App](https://github.com/jspringer/react-native-expo-weather) (React Native, Expo, Snack) - [Demo](https://snack.expo.io/@jsnspr/react-native-expo-weather)
 
 [Project Request Form](https://github.com/jspringer/vue-request-form) (Vue, VeeValidation, Heroku) - [Demo](https://jsnspr-vue-request-form.herokuapp.com/)
